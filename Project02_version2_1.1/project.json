@@ -1,0 +1,42 @@
+{
+  "name": "Project02_version2_1.1",
+  "description": "Blank Process",
+  "main": "Main.xaml",
+  "dependencies": {
+    "BalaReva.Externals.Activities": "[4.0.3]",
+    "Ionic.Zip": "[1.9.1.8]",
+    "Microsoft.Activities.Extensions": "[2.0.6.9]",
+    "NuGet.Client": "[4.2.0]",
+    "NuGet.Core": "[2.14.0]",
+    "SharpZipLib": "[1.1.0]",
+    "System.IO.Compression.ZipFile": "[4.3.0]",
+    "UiPath.Excel.Activities": "[2.6.2]",
+    "UiPath.Mail.Activities": "[1.5.1]",
+    "UiPath.System.Activities": "[19.7.0]",
+    "UiPath.UIAutomation.Activities": "[19.7.0]"
+  },
+  "webServices": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "19.7.0.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    }
+  },
+  "expressionLanguage": "VisualBasic"
+}
