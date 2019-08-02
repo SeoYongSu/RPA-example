@@ -1,0 +1,10 @@
+<Project>
+  <Name>Project01_Test01</Name>
+  <Main>test01.xaml</Main>
+  <Desc>Project01_Test01</Desc>
+  <Key>sgg+6vYCzm5tOc51B+fsyiIOXgsAyao3/75KBFM6Qn0BpoGIXHQliLrbRRXKW8n9NnmJgXRJqgpA85woMoEwXA==</Key>
+  <StudioVesrion>1.5.8.0</StudioVesrion>
+  <Libraries>
+    <System.Activities>System.Activities</System.Activities>
+  </Libraries>
+</Project>
